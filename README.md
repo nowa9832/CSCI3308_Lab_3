@@ -6,7 +6,7 @@ Noah
 Caleb
 Florian
 Marcus
-Ryan
+Ryan;
 Dylan
 
 This repository is about git.
