@@ -1,1 +1,2 @@
-# CSCI3308_Lab_3
+# CSI3308_Lab_3
+Marcus Chong
