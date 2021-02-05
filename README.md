@@ -1,7 +1,7 @@
 # CSCI3308_Lab_3
 <<<<<<< HEAD
 Florian Frick
-=======
+======
 Noah
 Caleb
 Florian
