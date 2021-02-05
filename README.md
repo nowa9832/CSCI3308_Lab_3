@@ -1,3 +1,4 @@
+Project Team Members: 
 # CSCI3308_Lab_3
 <<<<<<< HEAD
 Florian Frick
