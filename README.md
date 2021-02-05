@@ -8,4 +8,6 @@ Florian
 Marcus
 Ryan
 Dylan
+
+This repository is about git.
 >>>>>>> 185fc0b33bab8891cb8cfc1191ab4ba82a90ef2e
