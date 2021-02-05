@@ -1,7 +1,7 @@
 # CSCI3308_Lab_3
-<<<<<<< HEAD
-Project Team Members:
-=======
+
+##### Project Team Members:
+
 Noah
 Caleb
 Florian
@@ -10,4 +10,4 @@ Ryan
 Dylan
 
 This repository is about git.
->>>>>>> 185fc0b33bab8891cb8cfc1191ab4ba82a90ef2e
+
